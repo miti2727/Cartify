@@ -44,7 +44,7 @@ function Footer(){
         </span>
         
         <span>
-            <form action="https://github.com/theanmolmalik/Cartify">
+            <form action="https://github.com/miti2727/Cartify">
             <button className="buttonStyle" onMouseOver={handleMouseOver} onMouseOut={handleMouseOut} style={{backgroundColor: isMouseOver ? "white" : "#28282B",color: isMouseOver ? "#28282B":"white"}}>Connect Us</button>
             </form>
         </span>
